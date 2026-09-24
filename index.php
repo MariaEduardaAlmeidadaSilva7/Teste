@@ -17,6 +17,9 @@ echo "<br>";
 echo "Matrícula: " . $matricula;
 echo "<br>";
 echo "E-mail: " . $email;
-echo "<br>;"
+echo "<br>";
+echo "<br>";
+
+echo "Aluno cadastrado com sucesso";
 
 ?>
